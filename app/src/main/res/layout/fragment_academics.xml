@@ -1,0 +1,113 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.darkknight.theapp10.OneFragment"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:src="@drawable/campus"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingStart="5dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="Campus Area"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="15dp"
+
+
+                android:text="• 3.14 Hect. Plot Area \n• Building Area of 9822 sq. mts.\n• Building Consists of 6 Blocks - A, B, C, D, E &amp; F.\n• College Building as per A.I.C.T.E. norms.\n• Classrooms,\n• Canteen\n• 2 inbuilt Lecture Theatres( LT-1 &amp; LT-2).\n• Basket Ball\n• Volley Ball Playground\n• Badminton Court.\n"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="WORKSHOPS"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:text="The workshops are headed by The Workshop Incharge Mr. Vipul Jain Ambedkar Polytechnichas the following workshops :-\n"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17dp"
+                android:text="CARPENTRY WORKSHOP"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:text="The workshop has a capacity of accommodating 15-16 students at a time. Students are made familiar with the known tools &amp; practices of the Carpentry Workshop. During their course of study, different types of jobs &amp; joints are made by students.\n"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17dp"
+                android:text="FITTING WORKSHOP"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:text="The workshop consists of 4 working benches &amp; 16 bench vices besides machines like Grinder &amp; Drilling Machine. Students are given vigorous training of working with common tools like hacksaw &amp; files. Different types of joints &amp; jobs are made by students\n"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17dp"
+                android:text="MACHINE WORKSHOP"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:text="The Machine Shop consists of very expensive &amp; sophisticated machines like Lethe Machine, Grinding Machine, Shaper, Universal Milling Machine, Slotter Machine &amp; Radial Drilling Machine etc.\n"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17dp"
+                android:text="SHEETMETAL WORKSHOP"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:text="The workshop has a capacity of accommodating 15-16 students at a time. Joints like Slang, Lap &amp; Seam, jobs like Funnel &amp; Tray with practices like Riveting &amp; Shearing are practiced by the students.
+\n"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17dp"
+                android:text="WELDING WORKSHOP"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:text="The wielding workshop consists of an Air Cool Transformer &amp; an Oil Based Transformer. Students are taught the basic principles of safe &amp; effective wielding techniques.\n"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

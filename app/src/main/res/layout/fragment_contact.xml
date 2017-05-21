@@ -1,0 +1,44 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+   >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingTop="10dp">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/imageView3"
+        android:src="@drawable/phone"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Ambedkar Institute of Technology,\n
+ISO 9001:2008 Certified Institute\n
+Shakarpur[Extn.],\n
+Delhi-110092,\n
+INDIA\n
+Website:-\n
+www.ambp.in,Email: ap.delhi@nic.in\n
+Tele:-\n
+011 22023594,22460311,22428339\n
+FAX No:-\n
+011 22023594\n"
+        android:id="@+id/textView"
+        android:layout_below="@+id/imageView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:textSize="17dp"/>
+
+</LinearLayout>
+    </ScrollView>

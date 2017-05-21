@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AIT_2.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <string name="name_empty">Please Enter Your Name</string>
+    <string name="rollno_empty">Please Enter Your Roll No.</string>
+    <string name="email_empty">Please Enter Your Email ID</string>
+    <string name="mobile_empty">Please Enter Your Mobile No.</string>
+    <string name="username_empty">Please Enter Your UserName</string>
+    <string name="password_empty">Please Enter Your Password</string>
+    <string name="con_password_error">Your Passwords Dont Match</string>
+    <string name="rollno_registered">This Roll number has already been registered</string>
+    <string name="username_registered">Username is already in use</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_results">Results</string>
+
+    <string-array name="header_titles">
+        <item>COMPUTER ENGINEERING &amp; ITES&amp;M</item>
+        <item>DIGITAL ELECTRONICS</item>
+        <item>MEDICAL ELECTRONICS</item>
+        <item>INSTRUMENTATION &amp; CONTROL</item>
+        <item>BACHELOR IN COMPUTER APPLICATION</item>
+        <item>BACHELOR IN VOCATIONAL STUDIES IN SOFTWARE DEVELOPMENT &amp; MOBILE COMMUNICATION</item>
+
+    </string-array>
+
+    <string name="Computer">Computer Engineering &amp; ITES&amp;M advanced and emerging area of technology has shown an unprecedented growth in every sphere of activity. A conscious attempt has been made to design the curriculum as per the requirement and need of the industry. Elective subjects like OOP, DBMS, Multimedia, Computing etc., are being taught besides the basic sciences and allied subjects. Six months Industrial training and project have been made an integral part of the curriculum to enable the students to correlate the theoretical knowledge with practical approach of problem solving. With equal importance given to hardware &amp; software subjects, the college maintains well equipped and modernized Graphics Lab, Multimedia &amp; Networking Lab with Internet facility &amp; Software Lab. After successful completion of the course , students may secure jobs as Software Engineers , Senior Programmer, Hardware Engineers, Maintenance Engineer , Computer faculty etc.</string>
+    <string name="Digital">Diploma in electronics with specialization in Digital Electronics course has been defined and designed to meet the challenges of continuous technological changes and sound knowledge of latest areas. Various elective subjects are offered like Advanced Microprocessor, Digital System Design , Microprocessor based system Design, Communication Engineering, principles Of Instrumentation and Transducers, Product Development and Design and Imaging Techniques.</string>
+    <string name="Medical">Departments maintain well-equipped and well established labs for different electronics and allied subjects e.g. Digital and Microprocessor Lab, Medical Electronics Lab, Communication Lab, Project Lab Etc. Facility to undertake Project related activities with Industry have been made an integral part of the Curriculum which enables students to develop skills and know the work culture of an Industry. After successful completion of these courses the students are absorbed for the jobs in the fields like Sales &amp; Marketing, production, Customer Support , Servicing, Development &amp; as technicians etc.,. in various reputed companies like Tata Consultancy Services , C-Dot, Siemens, Tektronics, Philips etc.,. These courses at Ambedkar Institute of Technology follow the scheme of Multipoint Entry &amp; Credit System.</string>
+    <string name="Instrumentation">This Diploma Course has been started with a view of training students in the vastly emerging industries of India using new technologies like Petro-Chemical engineering , Manufacturing Engineering, Aviation, etc.,. All Engineering Industries connected with above areas have to rely on Instrumentation such as Measurement &amp; Instrumentation, Quality Control, calibration &amp; testing etc.,- all very much an essential part of the entire set up in any industry. To cope up with the modernization of Indian Industry &amp; Quality Control, the syllabus &amp; objectives of teaching have been formulated to encompass the areas of Computers , Manufacturing Engineering, Robotics &amp; Industrial Automation which are now important areas of study. The course at Ambedkar Institute of Technology follows the scheme of Multi-point Entry  Credit System .</string>
+    <string name="Bca">Ambedkar Institute Of Technology , DTTE has under-graduate Degree courses (Bachelor in computer application)approved and sanctioned by UGC, GGSIPU, New Delh</string>
+    <string name="Mobile">Ambedkar Institute Of Technology , DTTE has started two new under-graduate Degree courses (Bachelor of Vocation): B. Voc. (Mobile Communication) and B. Voc (Information Technology), approved and sanctioned by UGC, GGSIPU, New Delhi.</string>
+
+
+</resources>
